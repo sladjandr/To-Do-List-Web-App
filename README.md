@@ -11,5 +11,5 @@ App will have two types of user. Administrator which will have abillity to manag
 -make controllers in Spring Boot  
 -login and registration (only users can register, not admin)  
 -limit access by user roles using spring security  
--write tests with Junit/TestNG and RestAssured  
+-write tests with Junit and RestAssured  
 -build front-end using Vue.js, HTML, CSS, Bootstrap  
