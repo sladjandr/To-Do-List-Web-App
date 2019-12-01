@@ -3,7 +3,7 @@ To-Do-List-Web-App
 
 Web app allowing users to manage their to-do list. Spring Boot will be used on backend and Vue.js on frontend.
 
-App will have two types of user. Administrator which will have abillity to manage user accounts and users which have abillity to manage their to-do list.
+App will have two types of users. Administrator which will have abillity to manage user accounts and users which will have abillity to manage their to-do list.
 
 (TO DO)  
 -make a data model in Spring Boot  
