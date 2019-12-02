@@ -6,7 +6,6 @@ Web app allowing users to manage their to-do list. Spring Boot will be used on b
 App will have two types of users. Administrator which will have abillity to manage user accounts and users which will have abillity to manage their to-do list.
 
 (TO DO)  
--make a data model in Spring Boot  
 -make repositories and services in Spring Boot  
 -make controllers in Spring Boot  
 -login and registration (only users can register, not admin)  
